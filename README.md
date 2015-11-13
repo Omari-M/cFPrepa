@@ -1,5 +1,6 @@
 # cFPrepa
-<h2>computer Freaks preparation to ACM </h2>
+<h2>computerFreaks </h2>
+<h3>Preparation to ACM </h3>
 Team: computerFreaks (ENSAK-Morocco)<br/>
 Members: 
 <ul>
